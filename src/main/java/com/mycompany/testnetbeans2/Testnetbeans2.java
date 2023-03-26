@@ -11,6 +11,7 @@ package com.mycompany.testnetbeans2;
 public class Testnetbeans2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // sua lai ok
+        System.out.println("Ok");
     }
 }
